@@ -1,4 +1,4 @@
-# PyData2024
+# PyData2025
 Applied Data Science course - COMP-3122
 
 ## Reference Book

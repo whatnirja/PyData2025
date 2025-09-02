@@ -23,3 +23,4 @@ Python Data Science Handbook: Essential Tools for Working with Data (by Jake Van
  - [Pandas Cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) (pdf)
  - [r/learnpython](https://www.reddit.com/r/learnpython/) - Reddit community for Python learners
  - [Making data mean more through storytelling | Ben Wellington | TEDxBroadway](https://www.youtube.com/watch?v=6xsvGYIxJok)
+ - [Exercism - Python practice](https://exercism.org/tracks/python)

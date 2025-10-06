@@ -9,6 +9,8 @@ Python Data Science Handbook: Essential Tools for Working with Data (by Jake Van
 ## Helpful Videos
  - [Data analysis with Pandas](https://www.youtube.com/watch?v=yzIMircGU5I&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=1) - playlist about Pandas by Kevin Markham
  - [Master Machine Learning with scikit-learn](https://www.youtube.com/watch?v=vUSFLs8w_dg&list=PL5-da3qGB5IDEeI0D8Y4Z5KLVmHgpgA-6) - playlist about scikit-learn by Kevin Markham
+ - [Matplotlib Tutorial](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) - playlist by Corey Schafer
+ - [Seaborn Plotting Library](https://www.youtube.com/watch?v=ooqXQ37XHMM) - by NeuralNine
 
 ## Tools
  - [JupyterLite](https://jupyterlite.github.io/demo/lab/index.html) - a version of Jupyter that runs entirely in the browser
